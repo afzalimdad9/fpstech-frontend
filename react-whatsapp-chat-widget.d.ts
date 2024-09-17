@@ -1,0 +1,1 @@
+declare module '@/node_modules/react-whatsapp-chat-widget/index';
